@@ -3,6 +3,10 @@ a split keyboard that i made
 
 ![image](https://user-images.githubusercontent.com/102767971/215166168-12f08a78-ce6e-4368-9a70-0d4e8173b8e2.png)
 
+## How to build
+
+im too lazy to write a comprehensive build guide, so just know a lot of the steps in building a solfe keyboard will apply to this
+
 ## BOM
 
 |Component|Location|QTY|
