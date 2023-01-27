@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "GummyKey")(type "KiCad")(uri "B:/KiCad Projects/GummyKey/GummyKey.kicad_sym")(options "")(descr ""))
+)
